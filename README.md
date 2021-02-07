@@ -2,7 +2,7 @@
 
 A Tic Tac Toe Minimax Algorithm module in typescript to find best move on a given board 
 
-![Node.js CI](https://github.com/chokonaira/tictactoe-board/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/chokonaira/tictactoe-minimax/workflows/Node.js%20CI/badge.svg)
 
 
 ### Installation

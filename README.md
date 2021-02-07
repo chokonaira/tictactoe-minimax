@@ -1,8 +1,12 @@
 ## Tic Tac Toe Minimax
 
-A Tic Tac Toe Minimax Algorithm module in typescript to find best move on a given board 
+A Tic Tac Toe Minimax Algorithm NPM module in typescript to find best move on a given board 
 
 ![Node.js CI](https://github.com/chokonaira/tictactoe-minimax/workflows/Node.js%20CI/badge.svg)
+
+### NPM Package
+
+[minimax](https://www.npmjs.com/package/ttt-minimax-typescript?activeTab=versions)
 
 
 ### Installation

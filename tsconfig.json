@@ -1,15 +1,15 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "target": "esnext",
-    "jsx": "react",
-    "sourceMap": false,
+    "target": "es5",
     "experimentalDecorators": true,
-    "noImplicitUseStrict": true,
     "removeComments": true,
+    "declaration": true,
+    "esModuleInterop": true,
     "moduleResolution": "node",
     "outDir": "dist",
-    "lib": ["es2017", "dom"],
+    "strict": true,
+    "lib": ["es2017", "es7", "es6", "dom"],
   },
   "exclude": ["node_modules", "out", ".next"]
 }

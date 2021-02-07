@@ -6,7 +6,7 @@ A Tic Tac Toe Minimax Algorithm NPM module in typescript to find best move on a 
 
 ### NPM Package
 
-[minimax](https://www.npmjs.com/package/ttt-minimax-typescript?activeTab=versions)
+[NPM Minimax](https://www.npmjs.com/package/ttt-minimax-typescript)
 
 
 ### Installation

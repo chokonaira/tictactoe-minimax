@@ -1,4 +1,4 @@
-## ttt-minimax
+## Tic Tac Toe Minimax
 
 A Tic Tac Toe Minimax Algorithm module in typescript to find best move on a given board 
 
@@ -9,16 +9,16 @@ A Tic Tac Toe Minimax Algorithm module in typescript to find best move on a give
 
 #### Minimax Module
 
-`npm install tictactoe-minimax --save`
+`npm install ttt-minimax-typescript --save`
 
 #### [Board Module](https://github.com/chokonaira/tictactoe-board)
 
-`npm install tictactoe-board --save`
+`npm install ttt-minimax-typescript --save`
 
 
 #### Usage
 
-`import Minimax from tictactoe-minimax`
+`import Minimax from ttt-minimax-typescript`
 
 `import Board from tictactoe-board`
 

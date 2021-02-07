@@ -1,6 +1,6 @@
 {
-  "name": "tictactoe-minimax",
-  "version": "1.0.0",
+  "name": "ttt-minimax-typescript",
+  "version": "1.1.0",
   "description": "A Tic Tac Toe Minimax Algorithm module in typescript to find best move on a given board",
   "main": "dist/Minimax.js",
   "types": "dist/Minimax.d.ts",
